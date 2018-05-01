@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Se ve algo raro pero creo que est  saliendo bien.
+=======
+Parece que s¡ toma forma...
+>>>>>>> ver1
